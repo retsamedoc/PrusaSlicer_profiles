@@ -7,8 +7,8 @@ Inspiration:
 - [Doc's V2 AB Profile](https://discord.com/channels/460117602945990666/461133450636951552/670982868054310932)
 
 Hardware:
-- Ender 3 Pro
+- Ender 3 Pro (Heavily Modified; affectionally called the CrE3P) 
 - Voron Switchwire (built from spare Ender 3 Pro)
-- Voron V2.4 (350mm)
-- Voron V0.1
+- Voron V2.4r2 (350mm)
+- Voron V0.2
 
